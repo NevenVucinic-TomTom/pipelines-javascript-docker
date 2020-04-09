@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/tomtomweb/Devsup-Playground/_apis/build/status/vucinicTT.pipelines-javascript-docker?branchName=master)](https://dev.azure.com/tomtomweb/Devsup-Playground/_build/latest?definitionId=628&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
